@@ -12,7 +12,7 @@ tar xvzf ./slsk.tgz
 
 su -c "install ./SoulseekQt-2015-6-25-64bit /usr/local/bin/slsk
 install ./slsk.png /usr/share/pixmaps/slsk.png
-install ./SoulseekQt /usr/share/applications/SoulseekQt.desktop
+install ./SoulseekQt.desktop /usr/share/applications/SoulseekQt.desktop
 chmod 750 /usr/local/bin/slsk
 chmod 750 /usr/share/pixmaps/slsk.png
 chmod 750 /usr/share/applications/SoulseekQt.desktop"
