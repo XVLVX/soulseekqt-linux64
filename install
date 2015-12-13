@@ -22,6 +22,6 @@ chmod +x ~/Desktop/SoulseekQt.desktop"
 
 
 echo "SoulseekQt 64bit is now installed"
-echo "it can be found in the app menu or terminal slsk"
+echo "it can be launched in the app menu, desktop or terminal: slsk"
 echo
 echo "XVLVX - hails music lovers"
