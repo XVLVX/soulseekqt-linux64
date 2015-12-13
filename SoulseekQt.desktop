@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Categories=Internet
+Name=SoulseekQt
+Comment=P2P File Sharing
+Exec=/usr/local/bin/slsk
+Icon=/usr/share/pixmaps/slsk.png
+Path=/usr/local/bin
+Terminal=false
+StartupNotify=false
+Name[en_US]=SoulseekQt
