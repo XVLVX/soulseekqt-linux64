@@ -14,10 +14,11 @@ tar xvzf ./slsk.tgz
 su -c "install ./SoulseekQt-2015-6-25-64bit /usr/local/bin/slsk
 install ./slsk.png /usr/share/pixmaps/slsk.png
 install ./SoulseekQt.desktop /usr/share/applications/SoulseekQt.desktop
+ln -s /usr/share/applications/SoulseekQt.desktop ~/Desktop/SoulseekQt.desktop
 chmod +x /usr/local/bin/slsk
 chmod +x /usr/share/pixmaps/slsk.png
 chmod +x /usr/share/applications/SoulseekQt.desktop
-ln -s /usr/share/applications/SoulseekQt.desktop ~/Desktop/SoulseekQt.desktop"
+chmod +x ~/Desktop/SoulseekQt.desktop"
 
 
 echo "SoulseekQt 64bit is now installed"
