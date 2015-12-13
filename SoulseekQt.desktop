@@ -1,12 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Categories=Internet
-Name=SoulseekQt.tesktop
-Comment=P2P File Sharing
+Categories=Internet;Qt;Audio;Network;Chat;
+Name=SoulseekQt
+Comment=Client for Soulseek file sharing network.
 Exec=/usr/local/bin/slsk
 Icon=/usr/share/pixmaps/slsk.png
 Path=/usr/local/bin
 Terminal=false
 StartupNotify=false
-Name[en_US]=SoulseekQt.desktop
